@@ -2,3 +2,4 @@
 *.DS_Store
 **DecisionTrees/venv
 **NaiveBayes/venv
+**SupportVectorMachines/venv
